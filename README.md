@@ -1,4 +1,4 @@
-# VBA Challenge
+# Stock Analysis Using VBA Scripting
 
 In this challenge, we used VBA scripts effeciently to analyze the yearly stock data.
 
